@@ -1,0 +1,6 @@
+C:\Users\Charles\Dropbox\Projeto\Cueio\ZeCueio\ZeCueio\bin\Debug\ZeCueio.exe
+C:\Users\Charles\Dropbox\Projeto\Cueio\ZeCueio\ZeCueio\bin\Debug\ZeCueio.pdb
+C:\Users\Charles\Dropbox\Projeto\Cueio\ZeCueio\ZeCueio\bin\Debug\Superstar.Html.dll
+C:\Users\Charles\Dropbox\Projeto\Cueio\ZeCueio\ZeCueio\obj\x86\Debug\ZeCueio.csprojResolveAssemblyReference.cache
+C:\Users\Charles\Dropbox\Projeto\Cueio\ZeCueio\ZeCueio\obj\x86\Debug\ZeCueio.exe
+C:\Users\Charles\Dropbox\Projeto\Cueio\ZeCueio\ZeCueio\obj\x86\Debug\ZeCueio.pdb
